@@ -1,6 +1,3 @@
-// NOTE: Apologies for the messy repository. We didn't know how to properly use Git or GitHub at the time. The correct folder with the final product for this project is the one titled FakerFinalProject
-
-
 Technical Documentation for Inventory Management System (IMS)
 Group Term Project for COP3503
 Contributors: Tim Botelho, Chad Lim, Logan Hughes, Nickolas Pais, Robert Parker, Nicholas White.
